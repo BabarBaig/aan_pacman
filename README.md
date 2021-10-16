@@ -1,7 +1,7 @@
-#Name
+*Name
 
 This is a basic pacman implementation
-#Description
+*Description
 
 The code animates the pacman image, moving it between the L-R borders of the screen every 00ms.  Image animation involves pacman opening and closing its mouth to simulate it eating.
 Installation: If needed, you could include steps to help people get started with your project.
